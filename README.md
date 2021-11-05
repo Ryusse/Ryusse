@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-<style>
+<style type='text/css'>
   :root {
   --font-family: 'Dosis', sans-serif;
   --fw-regular: 400;
