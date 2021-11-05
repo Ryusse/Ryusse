@@ -3,7 +3,115 @@
 <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-<link rel="stylesheet" href="styles.css">
+<style>
+  :root {
+  --font-family: 'Dosis', sans-serif;
+  --fw-regular: 400;
+  --fw-medium: 600;
+  --fw-bold: 700;
+  --fs-h1: 2.4rem;
+  --fs-h2: 1.8rem;
+  --fs-h3: 1.3rem;
+  --fs-text: 1rem;
+
+  --title-color: #c2c9d1;
+  --text-color: #98a6b4;
+  --bk-color: #1d252c;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-size: var(--fs-text);
+  font-family: 'Dosis', sans-serif;
+  color: #98a6b4;
+}
+
+h1 {
+  font-weight: var(--fw-bold);
+  font-size: var(--fs-h1);
+  text-transform: uppercase;
+  text-align: center;
+  color: var(--title-color);
+}
+
+h2 {
+  font-weight: var(--fw-medium);
+  font-size: var(--fs-h2);
+  margin: 2rem 0;
+  color: var(--title-color);
+}
+
+h3 {
+  font-weight: var(--fw-medium);
+  font-size: var(--fs-h3);
+  color: var(--title-color);
+}
+
+.margin {
+  margin: 1rem 0;
+}
+
+.cotent {
+  background-color: var(--bk-color);
+}
+
+.hero {
+  padding: 3rem;
+  width: 100%;
+  height: 20rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url(./images//hero.gif) no-repeat left;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.card {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(7rem, auto));
+  gap: 2rem;
+  place-content: start;
+}
+
+.card__image {
+  width: 2.5rem;
+  justify-content: start;
+  align-self: start;
+}
+
+.card__link {
+  color: var(--text-color);
+}
+
+.img-size {
+  height: 3rem;
+}
+
+.card .discord {
+  max-width: 3.2rem;
+}
+
+.status-container {
+  display: flex;
+  flex-direction: column;
+  place-content: start;
+  gap: 1rem;
+}
+
+.status-container__image {
+  max-width: 30rem;
+}
+
+</style>
 
 
 <div class="content">
