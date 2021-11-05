@@ -1,24 +1,93 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-![Alt Text](./images/hero.gif)
-&nbsp;
-<h3 align="center">Hi I'm Joel, a front end developer from Perú </h3>
-
-
-&nbsp;
-<h3 align="left">Connect with me:</h3>
-&nbsp;
-<p align="left">
-
-<a href="https://linkedin.com/in/joel-angel-ocaño-ore-9a52b5202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel-angel-ocaño-ore-9a52b5202" height="30" width="40" />&nbsp;</a>
-<a href="https://instagram.com/ryuse.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ryuse.99" height="30" width="40" />&nbsp;</a>
-<a href="https://discord.gg/307622475292868619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="307622475292868619" height="40" width="40" /></a>
-</p>&nbsp;
-<h3 align="left">Languages and Tools:</h3>
-&nbsp;
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>&nbsp; <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp; <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp; <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp; <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>&nbsp; <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>&nbsp;
-
-&nbsp;
+<link rel="stylesheet" href="styles.css">
 
 
-  <a><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ryusse&show_icons=true&include_all_commits=true&theme=gotham" alt="Ryusse's github stats" /></a>
-  <a><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ryusse&layout=compact&theme=gotham" /></a>
+<div class="content">
+
+<div class="hero">
+<h1 align="center" class="margin">Hi I'm Joel, a front end developer from Perú </h1>
+</div>
+
+
+<h2>Connect with me:</h2>
+
+<div class="container margin">
+
+  <div class="card">
+    <img class="card__image" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin link"/>
+    <a class="card__link" href="https://linkedin.com/in/joel-angel-ocaño-ore-9a52b5202" target="blank"><p><strong>Link : </strong>Linkedin</p></a>
+  </div>
+
+  <div class="card">
+    <img class="card__image discord" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord link"/>
+    <p><strong>Id : </strong>Ryuse#0525</p>
+  </div>
+
+  <div class="card">
+    <img class="card__image" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack link"/>
+    <a class="card__link" href="#" target="blank">Slack ..</a>
+  </div>
+
+</div>
+
+<h2>Tools and Languages</h2>
+
+<h3> Design</h3>
+
+<div class="container margin">
+
+  <div class="card">
+    <svg class="card__image img-size" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" ><path d="M0 0h48v48H0z" fill="#ffd02f"/><path d="M32.708 6.4h-5.124l4.549 7.05-9.617-7.05h-5.124l4.549 9.238L12.324 6.4H7.2l4.474 11.926L7.2 41.6h5.124l9.617-24.955L17.392 41.6h5.124l9.617-27.142-4.549 27.142h5.124L42.4 11.785z" fill="#050038"/></svg>
+    <p><strong>Miro :</strong> To make wireframes</p>
+  </div>
+
+  <div class="card">
+    <img class="card__image" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <p><strong>Figma :</strong> To Design the interfaces</p>
+  </div>
+
+  <div class="card">
+   <img class="card__image" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+    <p><strong>Photoshop :</strong>To make adjustments and reduce the weight of the images.</p>
+  </div>
+
+</div>
+
+<h3>Front end</h3>
+
+<div class="container margin">
+
+  <div class="card">
+    <img class="card__image" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+   </div>
+
+  <div class="card">
+    <img class="card__image" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <img class="card__image"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img class="card__image img-size" src="./images/styled-components-icon.png">
+    <img  class="card__image" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  </div>
+
+  <div class="card">
+    <img class="card__image" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img class="card__image" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </div>
+</div>
+
+</div>
+
+<div>
+</div>
+
+
+<div class="status-container margin">
+
+  <img class="status-container__image" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ryusse&show_icons=true&include_all_commits=true&theme=gotham" alt="Ryusse's github stats" />
+  <img class="status-container__image" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ryusse&layout=compact&theme=gotham" />
+
+</div>
+</div>
