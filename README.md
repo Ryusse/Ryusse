@@ -5,7 +5,7 @@
 <br>
 <br>
 
-**<h1 align="center">Hi I'm Joel, a front end developer from Perú </h1>**
+**<h1 align="center">Hi I'm a front end developer from Perú </h1>**
 
 <br>
 <br>
