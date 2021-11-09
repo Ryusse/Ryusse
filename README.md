@@ -1,23 +1,11 @@
 
+
+<img src="./images/Animation.gif">
+
 <br>
 <br>
 
 **<h1 align="center">Hi I'm Joel, a front end developer from Perú </h1>**
-
-<img src="./images/Animation.gif">
-
-<p>
-  <em>
-    I am a 3rd Year undergraduate from <a href="https://github.com/SatYu26/SatYu26/blob/master/Assets/Animation.gif"> <b>SRM Institute of Science and technology</b>, Kattankulatur</a>. <br>
-    20 years of living a comical life! <br>
-    Team member at <a href="https://dscsrm.com/"> <b>DSC SRM Powered by Google Developers</b></a><br>
-    <b>A friendly Neighbourhood Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
-    I Love <b>Android Development</b>, xD. <br>
-  </em>  
-</p>
 
 
 <br>
