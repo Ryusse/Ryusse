@@ -1,12 +1,11 @@
 
 
-<img src="./images/Animation.gif">
+<img src="./images/banner2.gif">
 
 <br>
 <br>
 
 **<h1 align="center">Hi I'm Joel, a front end developer from Perú </h1>**
-
 
 <br>
 <br>
@@ -28,16 +27,13 @@
 
 <br>
 <br>
-<br>
 
   <img width="250" height=" 250" align="center" src="./images/cat-typing.gif"/>
-<br>
 <br>
 <br>
 
 ## **Connect with me :**
 
-<br>
 <br>
 
 <a href="https://www.instagram.com/ryuse.99/" target="blank"><img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
@@ -45,11 +41,9 @@
 <a href="https://discordhub.com/profile/307622475292868619" target="blank"><img src="https://img.shields.io/badge/%3CDiscord%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 <br>
-<br>
 
 ## **My stats :**
 
-<br>
 <br>
 
 [![Ryusse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryusse&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
