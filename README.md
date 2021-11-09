@@ -3,11 +3,9 @@
 <img src="./images/banner3.gif">
 
 <br>
-<br>
 
 **<h1 align="center">Hi I'm a front end developer from Perú </h1>**
 
-<br>
 <br>
 
 ## **Languages and tools ⚒ :**
@@ -26,13 +24,9 @@
 <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-
-<br>
 <br>
 
   <img width="250" height=" 250" align="center" src="./images/cat-typing.gif"/>
-<br>
-<br>
 
 ## **Connect with me :**
 
