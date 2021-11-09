@@ -1,6 +1,6 @@
 
 
-<img src="./images/banner2.gif">
+<img src="./images/banner3.gif">
 
 <br>
 <br>
