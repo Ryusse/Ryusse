@@ -33,7 +33,7 @@
 <br>
 
 <a href="https://www.instagram.com/ryuse.99/" target="blank"><img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/joel-angel-oca%C3%B1o-ore-9a52b5202/" target="blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!--<a href="https://www.linkedin.com/in/joel-angel-oca%C3%B1o-ore-9a52b5202/" target="blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
 <a href="https://discordhub.com/profile/307622475292868619" target="blank"><img src="https://img.shields.io/badge/%3CDiscord%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 <br>
