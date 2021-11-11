@@ -49,7 +49,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryusse&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ryusse.visitor-badge) -->
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ryusse.visitor-badge)
 
 
 <!-- [<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/bny1wgbbulvphv0qfaqw74bfd) -->
