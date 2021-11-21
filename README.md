@@ -1,6 +1,6 @@
 
 
-<img src="./images/banner3.gif">
+<!--<img src="./images/banner3.gif">-->
 
 **<h1 align="center">Hi I'm a front end developer from Perú </h1>**
 
