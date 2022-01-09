@@ -21,8 +21,7 @@
 
 <br>
 
-  <img width="250" height=" 250" align="center" src="./images/cat-typing.gif"/>
-
+   <!--<img width="250" height=" 250" align="center" src="./images/cat-typing.gif"/>-->
 ## **Connect with me :**
 
  <!--
