@@ -39,8 +39,8 @@
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img width="600em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryusse&show_icons=false&theme=react&include_all_commits=true&count_private=false"/>
-  <img width="600em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryusse&layout=compact&langs_count=7&theme=react"/>
+  <img width="500em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryusse&show_icons=false&theme=react&include_all_commits=true&count_private=false"/>
+  <img width="500em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryusse&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
