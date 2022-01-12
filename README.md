@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryusse&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layout&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
 ## **Languages and tools ⚒ :**
@@ -29,8 +29,11 @@
 
 ## **Connect with me :**
 
-<a href="https://discordhub.com/profile/307622475292868619" target="blank"><img src="https://img.shields.io/badge/%3CDiscord%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href = "mailto:joelangeltw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>
+    <a href="https://discordhub.com/profile/307622475292868619" target="blank"><img src="https://img.shields.io/badge/%3CDiscord%3E%20-%237289DA.svg?&style=for-the-        badge&logo=discord&logoColor=white"/></a>
+    <a href = "mailto:joelangeltw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
 
 ## **My stats :**
 
